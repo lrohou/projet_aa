@@ -32,3 +32,5 @@ Thumbs.db
 # Embeddings cache
 embeddings_cache/
 *.npy
+
+/venv
